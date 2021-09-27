@@ -23,8 +23,8 @@ curl -X POST https://frontend-homework.getsandbox.com/users
 ```
 Note: api randomly fails (on purpose) with 500
 
-# Requirements
-## Required 
+## Requirements
+### Required 
 - [ ] Allow the user to select multiple `.csv` files (file example is shown below)
 - [ ] List all selected files together with their filenames and line counts
 - [ ] Add an option to remove any file from the list
@@ -34,7 +34,7 @@ Note: api randomly fails (on purpose) with 500
 - [ ] If the api call succeeds - show success message and clear all uploaded files
 - [ ] If the api call fails - show an error message and let the user retry manually.
 
-## Optional
+### Optional
 - [ ] If the api call fails - retry 3 times. If all retries failed - show an error message and let the user retry manually.
 - [ ] Add a separate tab that shows api calls logs - failed/succeeded, user count, timestamp
 - [ ] Use any component UI library that you like
