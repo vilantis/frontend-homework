@@ -25,11 +25,11 @@ Note: api randomly fails (on purpose) with 500
 
 ## Requirements
 ### Required 
-- [ ] Allow the user to select multiple `.csv` files (file example is shown below)
+- [ ] Allow the user to select multiple `.csv` files (file example is shown above)
 - [ ] List all selected files together with their filenames and line counts
 - [ ] Add an option to remove any file from the list
 - [ ] Show the average of age of all the users
-- [ ] Add a "Submit" button that collects users from files and sends them to api (more info below)
+- [ ] Add a "Submit" button that collects users from files and sends them to api (more info above)
 - [ ] Show a loading state while api request is in progress
 - [ ] If the api call succeeds - show success message and clear all uploaded files
 - [ ] If the api call fails - show an error message and let the user retry manually.
