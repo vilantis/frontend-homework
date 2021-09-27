@@ -1,6 +1,6 @@
 # Vilantis frontend homework task
 
-Implement a small web site using any frontend technology you like (preferably React.js or Vue.js) in compliance with the requirements below. Use any additional software necessary. Format your code according to the recommendations of your chosen technology. Add a Readme file with the instructions how to set up and start your website. Upload your solution to a repo on GitHub. If it's a public repo - just send us the link. If it's a private on - invite user `antanas`.
+Implement a small web site using any frontend technology you like (preferably React.js or Vue.js) in compliance with the requirements below. Use any additional software necessary. Format your code according to the recommendations of your chosen technology. Add a Readme file with the instructions how to set up and start your website. Upload your solution to a repo on GitHub. If it's a public repo - just send us the link. If it's a private on - invite user [antanas](https://github.com/antanas).
 
 Implementation of all the [required] lines is necessary for passing the test. Implementation of the non-required lines gives bonus points. Feel free to come up with and implement your own ideas in addition to, or instead of, the optional requirements.
 
