@@ -15,7 +15,7 @@ Jimmy Hendrix,27
 David Bowie,69
 ```
 
-Api call example:
+api call example:
 ```
 curl -X POST https://frontend-homework.getsandbox.com/users
    -H 'Content-Type: application/json'
