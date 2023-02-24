@@ -10,7 +10,7 @@ While working on this assignment, you are welcome to have fun, overengineer and 
 
 #### Input .csv file example:
 ```
-User name, Age
+User name,Age
 Elvis Presley,42
 Jimmy Hendrix,27
 David Bowie,69
