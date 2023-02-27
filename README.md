@@ -18,10 +18,13 @@ David Bowie,69
 
 #### API call example:
 ```
-curl -X POST https://frontend-homework.getsandbox.com/users
-   -H 'Content-Type: application/json'
-   -d '{"users":["David Bowie","Jimmy Hendrix","Elvis Presley"]}'
+curl -X POST https://vilantis-frontend-homework.free.beeceptor.com/users \
+-H 'Content-Type: application/json' \
+-d '{"users":["David Bowie","Jimmy Hendrix","Elvis Presley"]}'
+
+This endpoint will always return statusCode 200. During the interview we'll simulate different responses
 ```
+
 **Note: The API endpoint will sometimes fail and return a HTTP status code of 500. This is done on purpose to simulate unreliable conditions.**
 ## Requirements
 ### Required 
